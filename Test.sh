@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# Written By ᗡ∀ΛIᗡ
+#  By ᗡ∀ΛIᗡ
 
 
 symbols=("@" "#" "&")
